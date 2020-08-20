@@ -1,0 +1,17 @@
+7202000 Demir TL/kg 3580 ErdemirDemirCelik
+7202001 Strafor TL/m2 16 Izocam
+7202002 Kiremit TL/adet 2.85 Kilicoglu
+7202003 AntrasitGriKiremit TL/adet 4.45 Persan
+7202004 Gazbeton TL/m2 33 NuhBeton
+7202005 HazirBeton TL/m3 220 BursaBeton
+7202006 Tugla TL/adet 0.75 Bloksan
+7202007 YigmaTugla TL/adet 1.15 Bloksan
+7202008 Alci TL/kg 13.05 Kalekim
+7202009 Kum TL/m3 83 BasyigitYapi 
+7202010 BeyazCimento(50kg) TL/adet 60 Cimsa
+7202011 GriCimento(50kg) TL/adet 50 OyakCimento
+7202012 Membran(3mmkumlu) TL/top 105 AnkaraMembran
+7202013 OSB(122*244cm) TL/adet 71 Kronoswiss
+7202014 Playwood/bereza TL/adet 245 OzturkKontrplak   
+7202015 Kereste(5*10) TL/m3 990 EgeOrmanUrunleri 
+7202016 Izocam TL/m2 19.8 Izocam
